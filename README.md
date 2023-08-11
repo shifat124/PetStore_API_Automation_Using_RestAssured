@@ -6,6 +6,10 @@ A mini API automation test project of user model from the PetStore Swagger API d
 * Have read api from Routes file (a Java file) as well as from properties file.
 
 
+
+
+
+
 * The log report image (some part) has been given below (using Log4j) -
 
 
