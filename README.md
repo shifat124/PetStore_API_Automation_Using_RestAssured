@@ -10,6 +10,7 @@ A mini API automation test project of user model from the PetStore Swagger API d
 
 
 
+
 ![Log4j](https://github.com/shifat124/PetStore_API_Automation_Using_RestAssured/assets/69003347/32ec52e1-301f-493f-9d2c-9d8575b7986e)
 
 
@@ -17,7 +18,10 @@ A mini API automation test project of user model from the PetStore Swagger API d
 
 
 
+
 ![Extent Report 1](https://github.com/shifat124/PetStore_API_Automation_Using_RestAssured/assets/69003347/e19b9b9b-5160-4cb4-8ba2-e2070b766451)
+
+
 
 
 
